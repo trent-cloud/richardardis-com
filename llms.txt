@@ -10,6 +10,7 @@
 
 ## Elsewhere
 - Woodlark Associates: https://woodlarkassociates.co.uk
+- Gardn (reference build): https://gardn.world — consumer gardening app live on both app stores in 20 markets; its AI-operated back office (30+ governed agent roles under approval queues and audit trails) is the proven-on-ourselves pattern behind Woodlark's work. Built by co-founder Trent Peek; Richard leads the adoption and change side.
 - LinkedIn: https://www.linkedin.com/in/richardardis
 
-Updated: 2026-07-12
+Updated: 2026-07-13
