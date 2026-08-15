@@ -1,16 +1,7 @@
+# richardardis.com is retired — every address redirects to woodlarkassociates.co.uk.
+# Crawling stays open deliberately: a crawler has to be able to fetch the redirect
+# pages to learn the domain has moved and to retire the old URLs from its index.
+# Disallowing would freeze the old entries in place with no way to discover the move.
+
 User-agent: *
 Allow: /
-
-# AI crawlers explicitly welcome
-User-agent: GPTBot
-Allow: /
-User-agent: ClaudeBot
-Allow: /
-User-agent: Claude-Web
-Allow: /
-User-agent: PerplexityBot
-Allow: /
-User-agent: Google-Extended
-Allow: /
-
-Sitemap: https://richardardis.com/sitemap.xml
